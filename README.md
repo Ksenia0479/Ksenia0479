@@ -1,16 +1,24 @@
-## Hi there 👋
+I'm a full stack javascript developer with over 4 years of experience in web development.
 
-<!--
-**Ksenia0479/Ksenia0479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Recent Side Projects
 
-Here are some ideas to get you started:
+## 📰 [RSS To Telegram](https://t.me/ai_rss_to_telegram_bot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Ksenia0479/rss-to-telegram">
+    <img src="images/rss-to-telegram.png" align="right" width="300" style="max-width: 100%;"/>
+</a>
+
+Telegram RSS bot designed to deliver news in concise summaries and lets you translate them into your preferred language.
+
+The project leverages a modern technology stack to provide a Telegram RSS bot service, which offers news summaries and translation features. The core technologies and services include:
+
+- Language & Framework: Typescript, NestJS
+- Database & ORM: Prisma, MongoDB Atlas
+- Containerization & CI/CD: Docker, Github Actions, AWS
+- Testing Framework: Jest
+- Task Management & Messaging: Redis, BullMQ
+- AI & Bot Library: OpenAI, Telegraf
+
+## ✨ Cleaning Web Service
+
+## 📈 Candlestick Chart
