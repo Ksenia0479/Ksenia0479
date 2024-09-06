@@ -24,7 +24,7 @@ The project leverages a modern technology stack to provide a Telegram RSS bot se
 ## 📈 [Candlestick Chart](https://github.com/Ksenia0479/candlestick-chart)
 
 <a href="https://candlestick-chart-nu.vercel.app/">
-    <img src="images/rss-to-telegram.png" align="right" width="300" style="max-width: 100%;"/>
+    <img src="images/candlestick-chart.png" align="right" width="300" style="max-width: 100%;"/>
 </a>
 
 This project showcases a canvas-based candlestick chart, developed using vanilla JavaScript, and encapsulated withing a React application for straightforward deployment. Aimed at embedding withing messaging platforms for monitoring the exchange rates in real time.
