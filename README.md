@@ -2,7 +2,7 @@ I'm a full stack javascript developer with over 4 years of experience in web dev
 
 # Recent Side Projects
 
-## 📰 [RSS To Telegram](https://t.me/ai_rss_to_telegram_bot)
+## 📰 [AI RSS To Telegram (2024)](https://t.me/ai_rss_to_telegram_bot)
 
 <a href="https://github.com/Ksenia0479/rss-to-telegram">
     <img src="images/rss-to-telegram.png" align="right" width="300" style="max-width: 100%; border: 1px solid #74a785; padding-left: 0; margin-left: 20px;"/>
@@ -21,7 +21,7 @@ The project leverages a modern technology stack to provide a Telegram RSS bot se
 
 [Access the Source Code](https://github.com/Ksenia0479/rss-to-telegram)
 
-## ✨ [Cleaning Web Service (2020)](https://)
+## ✨ [Cleaning Web Service (2020)](https://cleaning-web-service-client.vercel.app/)
 
 <a href="">
     <img src="images/cleaning-web-service.png" align="right" width="300" style="max-width: 100%;"/>
@@ -47,7 +47,7 @@ The following core technologies are used:
 - Deployment and Hosting: Heroku
 - State Management: Redux
 
-[Access the Source Code](https://)
+[Access the Source Code](https://github.com/Ksenia0479/cleaning-web-service/tree/main/client)
 
 ## 📈 [Candlestick Chart (2018)](https://candlestick-chart-nu.vercel.app/)
 
